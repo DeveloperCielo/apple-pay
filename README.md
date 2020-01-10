@@ -32,7 +32,7 @@ var braspagApplePay: BraspagApplePayProtocol!
 
 > Este protocolo possui apenas um contrato a ser implementado e, falaremos sobre ele mais adiante na documentação.
 
-##
+## 
 
 Para instanciar a variável `braspagApplePay` iremos utilizar o seguinte método:
 ```swift
